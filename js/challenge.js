@@ -70,3 +70,4 @@ document.addEventListener('DOMContentLoaded', function(e){
   clickHandler();
   submitHandler();
 })
+
